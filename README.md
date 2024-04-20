@@ -1,6 +1,6 @@
 # CCA License
-The CCA License (CCA stands for Community Contributor Awareness) is a permissive sofware license based on the MIT License.\
-The difference is how the permission is granted: a donation made to the clause highlighted inside the license is required to be complaint.\
+The CCA License (CCA stands for Community Contributor Awareness) is a sofware license inspired by the MIT License.\
+To use the software, a donation made to the clause highlighted inside the license is required.\
 The donation clause explains how the author would like to support the community.
 
 The template is the following:
